@@ -15,9 +15,11 @@
 
 ## Make Predictions
 ### Array of Predictions for Index 32 in the Test Set:
+    
     array([9.4625633e-05, 1.0987158e-01, 4.3477034e-05, 8.8359582e-01,
        5.6092445e-05, 1.6385588e-08, 1.4731237e-04, 4.7754036e-09,
        6.1910413e-03, 9.3569055e-09], dtype=float32)
+
 
 For each index in this array, the value represents the probability that 
 that index is the correct label for the image. For example, index 0 correlates 
