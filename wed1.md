@@ -1,6 +1,6 @@
 # Wednesday Q&A
 
-#Part 1
+# Part 1
 
 ## Preprocess the Data
 ### Three New Images:
@@ -96,4 +96,4 @@ the MNIST dataset is more accurate.
 
 I am not sure why the MNIST dataset performed better than the 
 fashion dataset. Perhaps it is because clothes and shoes are 
-harder to tell apart than simple numbers. 
+harder to tell apart than simple numbers.
