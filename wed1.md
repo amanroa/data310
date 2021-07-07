@@ -50,6 +50,7 @@ It does not seem like I used Softmax in this section, because
 it is not mentioned by name however, in the line
     
     predictions_single = probability_model.predict(img)
+
 , I used a variable called probability_model. This is defined 
 earlier on in the code. 
 
