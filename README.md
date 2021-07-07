@@ -4,7 +4,7 @@
 - Module 1
     - [Tuesday's Response](tues1.md)
 
--Module 2
+- Module 2
 
 ## Projects
 
