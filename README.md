@@ -6,7 +6,7 @@
 
 -Module 2
 
-##Projects
+## Projects
 
 - Project 1
 - Project 2
