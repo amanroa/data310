@@ -84,13 +84,16 @@ the Fashion MNIST model, because the training score for the Fashion
 MNIST model is 
 
     0.9100
+
 while the score for the MNIST model was 
 
     0.9949
+
 as shown above. However, the testing score is more important.
 The test accuracy for Fashion MNIST is 
 
     0.8863000273704529
+
 , which is less than the testing accuracy for MNIST. Therefore,
 the MNIST dataset is more accurate.
 
