@@ -4,10 +4,10 @@
 ### Provide plots that describe the training and validation loss and accuracy. Interpret the plots. How is this model performing?
 
 The training and validation accuracy:
-![](so_acc_1.png)
+![](images/so_acc_1.png)
 
 The training and validation loss:
-![](so_loss_1.png)
+![](images/so_loss_1.png)
 
 Training loss decreases with each epoch, and training accuracy increases with each epoch. These changes are caused by using a gradient descent optimization. The usage of a gradient descent optimization minimizes the desired quantity on every iteration. While the validation loss undergoes a similar change, the validation accuracy seems to slightly peak before the training accuracy. Therefore, there could be slight overfitting. Overfitting means that the model does better on the training data than on new data.
 

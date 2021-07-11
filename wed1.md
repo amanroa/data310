@@ -5,13 +5,13 @@
 ## Preprocess the Data
 ### Three New Images:
 ### Index = 21
-![](fig1_21.png)
+![](images/fig1_21.png)
 
 ### Index = 10040
-![](fig2_10040.png)
+![](images/fig2_10040.png)
 
 ### Index = 59348
-![](fig3_59348.png)
+![](images/fig3_59348.png)
 
 ## Make Predictions
 ### Array of Predictions for Index 32 in the Test Set:
@@ -36,16 +36,16 @@ test_labels data set was also 3.
 ## Verify Predictions
 
 ### Index 32:
-![](fig4_32.png)
+![](images/fig4_32.png)
 
 ### Index 565:
-![](fig5_565.png)
+![](images/fig5_565.png)
 
 ## Use the Trained Model:
 
 I used the index 1001. 
 
-![](fig6_1001.png)
+![](images/fig6_1001.png)
 
 The predicted value was 3, which matches the test label.
 
@@ -64,7 +64,7 @@ This uses Softmax.
 # Part 2
 
 ## MNIST Data
-![](nums1.png)
+![](images/nums1.png)
 
 After fitting the data, the accuracy of the training set is:
 
@@ -77,10 +77,10 @@ The accuracy of the testing set is:
 ## Verify Predictions
 
 ### Index 900:
-![](nums2_900.png)
+![](images/nums2_900.png)
 
 ### Index 100:
-![](nums3_100.png)
+![](images/nums3_100.png)
 
 ## Accuracies
 
