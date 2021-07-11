@@ -98,7 +98,7 @@ average price is there and work from there.
 ## Q3: Which of the predictions were the most accurate? In which percentile do these most accurate predictions reside? Did your model trend towards over or under predicting home values?
 
 I ran a quick for loop to help me find the point with the smallest
-difference between the y and y_pred values for my bedroom + bathroom
+difference between the y and y_pred values for my
 model. Here it is:
 
     smallest_y_pred = y_pred[0]
