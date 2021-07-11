@@ -57,7 +57,7 @@ The highest asking price was $7,000,000, but the model predicted
 the price to be around $1,250,000. The MSE for the bathroom
 model was 169.7700979384024, so even higher than the bedroom model.
 
-So I decided to combine both of these models. 
+So, I decided to combine both of these models. 
 
 ![](images/housing_loss.png)
 
@@ -85,7 +85,38 @@ variables I tested, bedrooms seemed to have the smallest MSE.
 
 ## Q3: Which of the predictions were the most accurate? In which percentile do these most accurate predictions reside? Did your model trend towards over or under predicting home values?
 
+I ran a quick for loop to help me find the point with the smallest 
+difference between the y and y_pred values for my bedroom + bathroom
+model. Here it is:
 
+    smallest_y_pred = y_pred[0]
+    difference = abs(y[0] - y_pred[0])
+    index = 0
+    for i in range(len(y_pred)):
+        if abs(y[i] - y_pred[i]) < difference:
+        smallest_y_pred = y_pred[i]
+        difference = abs(y[i] - y_pred[i])
+        index = i
 
+From this code, I found that the most accurate prediction was
+$795,473, and the actual price was $795,000. This is definitely in
+the lower end of the scale, since my scale goes from $0 - 
+$10,000,000. This is actually easily seen on my scatterplot -
+most of the predictions from about $3,000,000 onwards fell far
+under the line. I calculated that this point is above the 50th
+percentile, but below the 75th percentile. 
 
+My model trended towards under predicting home values. There were
+222 values that were under predicted, 183 values that were over predicted,
+and 0 values that were exactly predicted. I found this out by just 
+making a for loop and comparing each of the y_pred values to the y 
+values and incrementing a counter as necessary. 
+
+## Q4: Which feature appears to be the most significant predictor?
+
+I believe that the bedrooms are the most significant predictor
+just based on the lower MSE. If I had figured out how to incorporate
+livingArea, I believe that would have had a much greater impact
+on the model. But with the predictors I have, I would have to
+go with bedrooms. 
 
