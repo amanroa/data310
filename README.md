@@ -8,6 +8,7 @@
 
 - Module 2
     - [Monday's Response](mon2.md)
+    - [Tuesday's Response P1](tues2.md)
 
 ## Projects
 
