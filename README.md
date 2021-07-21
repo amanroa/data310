@@ -13,6 +13,7 @@
     - [Thursday's Response](thurs2.md)
 - Module 3
     - [Monday's Response](mon3.md)
+    - [Tuesday's Response](tues3.md)
 
 ## Projects
 
