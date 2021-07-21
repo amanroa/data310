@@ -10,7 +10,7 @@ to tell the function which columns you want to keep as features
 and which you want to make a label. This model is nice if you 
 want to try different labels. 
 
-This is the model that I chose:
+This is the model that I created:
 
     model = tf.keras.Sequential([
     tf.keras.layers.Dense(20, activation=tf.nn.relu, input_shape=(4,)),  # input shape required
