@@ -15,6 +15,7 @@
     - [Monday's Response](mon3.md)
     - [Tuesday's Response](tues3.md)
     - [Wednesday's Response](https://huatao-wm.github.io/data310/week3/wed3.html)
+    - [Thursday's Response](https://coriraquel.github.io/data_310/Week_3/Thurs3.html)
 
 ## Projects
 
