@@ -21,4 +21,4 @@
 
 - [Project 1](project1_1.md) 
   
-- Project 2
+- [Project 3](project3.md)
