@@ -27,3 +27,5 @@
 - [Project 3](project3.md)
 
 - [Project 4](https://tyeatts75.github.io/Data310/project4.html)
+
+- [Final Project](final.md)
