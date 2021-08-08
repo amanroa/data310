@@ -1,5 +1,11 @@
 # Final Project
 
+## Video Presentation
+
+Here is my video presentation!
+
+![](zoom_0.mp4)
+
 ## Abstract
 
 Artificial Intelligence is becoming our new normal. Siri,
