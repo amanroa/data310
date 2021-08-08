@@ -2,7 +2,7 @@
 
 ## Video Presentation
 
-![](https://www.youtube.com/embed/LEXrYl_rzew)
+![Here is my presentation!](https://www.youtube.com/embed/LEXrYl_rzew)
 
 ## Abstract
 
