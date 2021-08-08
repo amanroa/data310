@@ -1,8 +1,9 @@
 # Final Project
 
 ## Video Presentation
+Here is my final presentation! 
 
-![](zoom_0.mp4)
+![](https://youtu.be/LEXrYl_rzew)
 
 ## Abstract
 
