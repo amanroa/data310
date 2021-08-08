@@ -4,7 +4,7 @@
 
 Here is my video presentation!
 
-![](zoom_0.mp4)
+![](https://github.com/amanroa/data310/blob/main/zoom_0.mp4)
 
 ## Abstract
 
